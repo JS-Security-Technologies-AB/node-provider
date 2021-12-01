@@ -27,8 +27,6 @@
     <a href="https://account.jssecurity.tech/signup/node">Sign up as Node Provider</a>
     ·
     <a href="https://github.com/JS-Security-Technologies-AB/node-provider/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/JS-Security-Technologies-AB/node-provider/issues">Request Feature</a>
    
   </p>
 </div>
@@ -39,9 +37,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
