@@ -1,5 +1,3 @@
-# node-provider
-
 <div id="top"></div>
 
 <!-- ABOUT THE PROJECT -->
