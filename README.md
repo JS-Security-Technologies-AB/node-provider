@@ -12,11 +12,15 @@
 <h3 align="center">JS Security Node Provider</h3>
 
   <p align="center">
-    Becoming a node provider means that you allow us to use a fixed amount of storage space from your storage device. In this case, 100 GB. All you need to do is, install the ”JS Security Node Provider”-app, create an account on our website, log in, and you are good to go. Our decentralized network will pick up your request, and add you as a peer in our peer-to-peer network. The network will then start replicating itself onto your node.
-
-    A JS Security node provider is one of the key components of our Decentralized Network. This is the first step in our mission to be truly decentralized, where we make it possible for users and hosts to keep their information secure. JS Security has developed a peer-to-peer network built on secure, distributed append-only logs. They’re like lightweight blockchains without the consensus algorithm. Kinda like BitTorrent, as more people “seed” a dataset, it will increase the available bandwidth.
-
+    <p>Want to become an important part of the JS Security network? Join our network of Node Providers. Provide storage, and help us build a truly decentralized and distributed network. Sign up today, and become one of the first nodes in Sweden! 
     <br />
+    <br />
+    Becoming a node provider means that you allow us to use a fixed amount of storage space from your storage device. In this case, 100 GB. All you need to do is, install the ”JS Security Node Provider”-app, create an account on our website, log in, and you are good to go. Our decentralized network will pick up your request, and add you as a peer in our peer-to-peer network. The network will then start replicating itself onto your node.
+    <br />
+    <br />
+    A JS Security node provider is one of the key components of our Decentralized Network. This is the first step in our mission to be truly decentralized, where we make it possible for users and hosts to keep their information secure. JS Security has developed a peer-to-peer network built on secure, distributed append-only logs. They’re like lightweight blockchains without the consensus algorithm. Kinda like BitTorrent, as more people “seed” a dataset, it will increase the available bandwidth.</p>
+
+ <br />
     <a href="https://jssecurity.tech"><strong>Visit JS Security Website</strong></a>
     <br />
     <br />
@@ -25,6 +29,7 @@
     <a href="https://github.com/JS-Security-Technologies-AB/node-provider/issues">Report Bug</a>
     ·
     <a href="https://github.com/JS-Security-Technologies-AB/node-provider/issues">Request Feature</a>
+   
   </p>
 </div>
 
