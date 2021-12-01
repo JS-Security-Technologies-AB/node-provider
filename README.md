@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<h3 align="center">The Project</h3>
+<h3 align="center">JS Security Node Provider</h3>
 
   <p align="center">
     <p>Want to become an important part of the JS Security network? Join our network of Node Providers. Provide storage, and help us build a truly decentralized and distributed network. Sign up today, and become one of the first nodes in Sweden!
