@@ -3,8 +3,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://jssecurity.tech)
-
 <div align="center">
 
 <h3 align="center">The Project</h3>
@@ -19,6 +17,9 @@
     A JS Security node provider is one of the key components of our Decentralized Network. This is the first step in our mission to be truly decentralized, where we make it possible for users and hosts to keep their information secure. JS Security has developed a peer-to-peer network built on secure, distributed append-only logs. They’re like lightweight blockchains without the consensus algorithm. Kinda like BitTorrent, as more people “seed” a dataset, it will increase the available bandwidth.
   </p>
 </div>
+
+[![Product Name Screen Shot][product-screenshot]](https://jssecurity.tech)
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
