@@ -2,40 +2,6 @@
 
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="https://jssecurity.tech/wp-content/uploads/2021/08/logo_dark.svg" alt="Logo" width="150" height="150">
-  </a>
-
-  <p align="center">
-    <p>Want to become an important part of the JS Security network? Join our network of Node Providers. Provide storage, and help us build a truly decentralized and distributed network. Sign up today, and become one of the first nodes in Sweden!  
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
